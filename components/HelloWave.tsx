@@ -23,8 +23,8 @@ export function HelloWave() {
 
   return (
     <Animated.View style={animatedStyle}>
-      <ThemedText style={styles.text}>👋</ThemedText>
-    </Animated.View>
+      <ThemedText style={styles.text}>👋t</ThemedText>
+    </Animated.View> 
   );
 }
 
